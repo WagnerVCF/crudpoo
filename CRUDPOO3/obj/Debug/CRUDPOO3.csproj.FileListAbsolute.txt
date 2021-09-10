@@ -1,0 +1,12 @@
+C:\Programas\CRUDPOO3\CRUDPOO3\bin\Debug\DbJogador.mdf
+C:\Programas\CRUDPOO3\CRUDPOO3\bin\Debug\DbJogador_log.ldf
+C:\Programas\CRUDPOO3\CRUDPOO3\bin\Debug\CRUDPOO3.exe.config
+C:\Programas\CRUDPOO3\CRUDPOO3\bin\Debug\CRUDPOO3.exe
+C:\Programas\CRUDPOO3\CRUDPOO3\bin\Debug\CRUDPOO3.pdb
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.csproj.AssemblyReference.cache
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.FormCadastro.resources
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.Properties.Resources.resources
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.csproj.GenerateResource.cache
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.csproj.CoreCompileInputs.cache
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.exe
+C:\Programas\CRUDPOO3\CRUDPOO3\obj\Debug\CRUDPOO3.pdb
